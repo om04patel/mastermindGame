@@ -4,13 +4,13 @@ Mastermind is a game where the player attempts to guess a sequence of colors cho
 
 # Features
 
--Random Color Sequence: The game randomly selects a sequence of colors from a predefined set.
+- Random Color Sequence: The game randomly selects a sequence of colors from a predefined set.
 
--User Input Validation: Ensures the player inputs valid color choices.
+- User Input Validation: Ensures the player inputs valid color choices.
 
--Feedback Mechanism: Provides feedback on the number of correct colors in the correct and incorrect positions.
+- Feedback Mechanism: Provides feedback on the number of correct colors in the correct and incorrect positions.
 
--Win Condition: The game ends when the player correctly guesses the entire sequence.
+- Win Condition: The game ends when the player correctly guesses the entire sequence.
 
 # How to Play
 
